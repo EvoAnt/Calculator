@@ -1,0 +1,1 @@
+Fun basic calculator project using HTML, CSS, and Javascript.
